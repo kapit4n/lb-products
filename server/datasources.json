@@ -1,6 +1,11 @@
 {
   "db": {
+    "host": "127.0.0.1",
+    "url": "",
+    "database": "reactseller",
+    "password": "password",
     "name": "db",
-    "connector": "memory"
+    "user": "lbproduct",
+    "connector": "mongodb"
   }
 }
